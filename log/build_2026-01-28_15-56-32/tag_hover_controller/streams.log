@@ -1,0 +1,46 @@
+[1.211s] Invoking command in '/home/mars/ros2_ws/src/tag_hover_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mars/ros2_ws/build/tag_hover_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tag_hover_controller build --build-base /home/mars/ros2_ws/build/tag_hover_controller/build install --record /home/mars/ros2_ws/build/tag_hover_controller/install.log --single-version-externally-managed install_data
+[1.560s] running egg_info
+[1.561s] creating ../../build/tag_hover_controller/tag_hover_controller.egg-info
+[1.584s] writing ../../build/tag_hover_controller/tag_hover_controller.egg-info/PKG-INFO
+[1.585s] writing dependency_links to ../../build/tag_hover_controller/tag_hover_controller.egg-info/dependency_links.txt
+[1.585s] writing entry points to ../../build/tag_hover_controller/tag_hover_controller.egg-info/entry_points.txt
+[1.585s] writing requirements to ../../build/tag_hover_controller/tag_hover_controller.egg-info/requires.txt
+[1.585s] writing top-level names to ../../build/tag_hover_controller/tag_hover_controller.egg-info/top_level.txt
+[1.586s] writing manifest file '../../build/tag_hover_controller/tag_hover_controller.egg-info/SOURCES.txt'
+[1.640s] reading manifest file '../../build/tag_hover_controller/tag_hover_controller.egg-info/SOURCES.txt'
+[1.641s] writing manifest file '../../build/tag_hover_controller/tag_hover_controller.egg-info/SOURCES.txt'
+[1.641s] running build
+[1.641s] running build_py
+[1.641s] creating /home/mars/ros2_ws/build/tag_hover_controller/build
+[1.642s] creating /home/mars/ros2_ws/build/tag_hover_controller/build/lib
+[1.642s] creating /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller
+[1.642s] copying tag_hover_controller/hover_yaw_search.py -> /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller
+[1.642s] copying tag_hover_controller/__init__.py -> /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller
+[1.642s] copying tag_hover_controller/hover_yaw_search_old_version.py -> /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller
+[1.644s] copying tag_hover_controller/hover_yaw_search_v1.py -> /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller
+[1.644s] running install
+[1.654s] running install_lib
+[1.679s] creating /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller
+[1.679s] copying /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller/hover_yaw_search.py -> /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller
+[1.679s] copying /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller/__init__.py -> /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller
+[1.679s] copying /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller/hover_yaw_search_old_version.py -> /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller
+[1.679s] copying /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller/hover_yaw_search_v1.py -> /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller
+[1.680s] byte-compiling /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller/hover_yaw_search.py to hover_yaw_search.cpython-312.pyc
+[1.685s] byte-compiling /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller/__init__.py to __init__.cpython-312.pyc
+[1.685s] byte-compiling /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller/hover_yaw_search_old_version.py to hover_yaw_search_old_version.cpython-312.pyc
+[1.689s] byte-compiling /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller/hover_yaw_search_v1.py to hover_yaw_search_v1.cpython-312.pyc
+[1.693s] running install_data
+[1.693s] creating /home/mars/ros2_ws/install/tag_hover_controller/share/ament_index
+[1.693s] creating /home/mars/ros2_ws/install/tag_hover_controller/share/ament_index/resource_index
+[1.693s] creating /home/mars/ros2_ws/install/tag_hover_controller/share/ament_index/resource_index/packages
+[1.693s] copying resource/tag_hover_controller -> /home/mars/ros2_ws/install/tag_hover_controller/share/ament_index/resource_index/packages
+[1.693s] copying package.xml -> /home/mars/ros2_ws/install/tag_hover_controller/share/tag_hover_controller
+[1.693s] creating /home/mars/ros2_ws/install/tag_hover_controller/share/tag_hover_controller/launch
+[1.694s] copying launch/lockon_backbone.launch.py -> /home/mars/ros2_ws/install/tag_hover_controller/share/tag_hover_controller/launch
+[1.694s] running install_egg_info
+[1.721s] Copying ../../build/tag_hover_controller/tag_hover_controller.egg-info to /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller-0.0.0-py3.12.egg-info
+[1.722s] running install_scripts
+[1.897s] Installing hover_yaw_search script to /home/mars/ros2_ws/install/tag_hover_controller/lib/tag_hover_controller
+[1.897s] Installing hover_yaw_search_v1 script to /home/mars/ros2_ws/install/tag_hover_controller/lib/tag_hover_controller
+[1.898s] writing list of installed files to '/home/mars/ros2_ws/build/tag_hover_controller/install.log'
+[1.997s] Invoked command in '/home/mars/ros2_ws/src/tag_hover_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mars/ros2_ws/build/tag_hover_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tag_hover_controller build --build-base /home/mars/ros2_ws/build/tag_hover_controller/build install --record /home/mars/ros2_ws/build/tag_hover_controller/install.log --single-version-externally-managed install_data

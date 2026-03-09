@@ -1,0 +1,3 @@
+[console_scripts]
+hover_yaw_search = tag_hover_controller.hover_yaw_search:main
+hover_yaw_search_v1 = tag_hover_controller.hover_yaw_search_v1:main

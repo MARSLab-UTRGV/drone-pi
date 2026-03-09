@@ -1,0 +1,44 @@
+running egg_info
+creating ../../build/tag_hover_controller/tag_hover_controller.egg-info
+writing ../../build/tag_hover_controller/tag_hover_controller.egg-info/PKG-INFO
+writing dependency_links to ../../build/tag_hover_controller/tag_hover_controller.egg-info/dependency_links.txt
+writing entry points to ../../build/tag_hover_controller/tag_hover_controller.egg-info/entry_points.txt
+writing requirements to ../../build/tag_hover_controller/tag_hover_controller.egg-info/requires.txt
+writing top-level names to ../../build/tag_hover_controller/tag_hover_controller.egg-info/top_level.txt
+writing manifest file '../../build/tag_hover_controller/tag_hover_controller.egg-info/SOURCES.txt'
+reading manifest file '../../build/tag_hover_controller/tag_hover_controller.egg-info/SOURCES.txt'
+writing manifest file '../../build/tag_hover_controller/tag_hover_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mars/ros2_ws/build/tag_hover_controller/build
+creating /home/mars/ros2_ws/build/tag_hover_controller/build/lib
+creating /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller
+copying tag_hover_controller/hover_yaw_search.py -> /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller
+copying tag_hover_controller/__init__.py -> /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller
+copying tag_hover_controller/hover_yaw_search_old_version.py -> /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller
+copying tag_hover_controller/hover_yaw_search_v1.py -> /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller
+running install
+running install_lib
+creating /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller
+copying /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller/hover_yaw_search.py -> /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller
+copying /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller/__init__.py -> /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller
+copying /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller/hover_yaw_search_old_version.py -> /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller
+copying /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller/hover_yaw_search_v1.py -> /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller
+byte-compiling /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller/hover_yaw_search.py to hover_yaw_search.cpython-312.pyc
+byte-compiling /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller/hover_yaw_search_old_version.py to hover_yaw_search_old_version.cpython-312.pyc
+byte-compiling /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller/hover_yaw_search_v1.py to hover_yaw_search_v1.cpython-312.pyc
+running install_data
+creating /home/mars/ros2_ws/install/tag_hover_controller/share/ament_index
+creating /home/mars/ros2_ws/install/tag_hover_controller/share/ament_index/resource_index
+creating /home/mars/ros2_ws/install/tag_hover_controller/share/ament_index/resource_index/packages
+copying resource/tag_hover_controller -> /home/mars/ros2_ws/install/tag_hover_controller/share/ament_index/resource_index/packages
+copying package.xml -> /home/mars/ros2_ws/install/tag_hover_controller/share/tag_hover_controller
+creating /home/mars/ros2_ws/install/tag_hover_controller/share/tag_hover_controller/launch
+copying launch/lockon_backbone.launch.py -> /home/mars/ros2_ws/install/tag_hover_controller/share/tag_hover_controller/launch
+running install_egg_info
+Copying ../../build/tag_hover_controller/tag_hover_controller.egg-info to /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller-0.0.0-py3.12.egg-info
+running install_scripts
+Installing hover_yaw_search script to /home/mars/ros2_ws/install/tag_hover_controller/lib/tag_hover_controller
+Installing hover_yaw_search_v1 script to /home/mars/ros2_ws/install/tag_hover_controller/lib/tag_hover_controller
+writing list of installed files to '/home/mars/ros2_ws/build/tag_hover_controller/install.log'

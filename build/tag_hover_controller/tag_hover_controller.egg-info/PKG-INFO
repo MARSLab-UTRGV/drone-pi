@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: tag-hover-controller
+Version: 0.0.0
+Summary: TODO: Package description, Hover and yaw-search controller backbone for MAVROS
+Maintainer: mars
+Maintainer-email: mars@todo.todo
+License: TODO: License declaration
+Provides-Extra: test
