@@ -11,6 +11,8 @@ setup.py
 launch/lockon_backbone.launch.py
 resource/tag_hover_controller
 tag_hover_controller/__init__.py
+tag_hover_controller/apriltag_pnp_broadcaster.py
+tag_hover_controller/apriltag_tf_broadcaster.py
 tag_hover_controller/hover_yaw_search.py
 tag_hover_controller/hover_yaw_search_old_version.py
 tag_hover_controller/hover_yaw_search_v1.py

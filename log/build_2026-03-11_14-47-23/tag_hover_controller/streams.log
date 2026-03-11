@@ -1,0 +1,30 @@
+[1.801s] Invoking command in '/home/mars/ros2_ws/src/tag_hover_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mars/ros2_ws/build/tag_hover_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tag_hover_controller build --build-base /home/mars/ros2_ws/build/tag_hover_controller/build install --record /home/mars/ros2_ws/build/tag_hover_controller/install.log --single-version-externally-managed install_data
+[2.273s] running egg_info
+[2.297s] writing ../../build/tag_hover_controller/tag_hover_controller.egg-info/PKG-INFO
+[2.298s] writing dependency_links to ../../build/tag_hover_controller/tag_hover_controller.egg-info/dependency_links.txt
+[2.302s] writing entry points to ../../build/tag_hover_controller/tag_hover_controller.egg-info/entry_points.txt
+[2.303s] writing requirements to ../../build/tag_hover_controller/tag_hover_controller.egg-info/requires.txt
+[2.304s] writing top-level names to ../../build/tag_hover_controller/tag_hover_controller.egg-info/top_level.txt
+[2.357s] reading manifest file '../../build/tag_hover_controller/tag_hover_controller.egg-info/SOURCES.txt'
+[2.359s] writing manifest file '../../build/tag_hover_controller/tag_hover_controller.egg-info/SOURCES.txt'
+[2.359s] running build
+[2.359s] running build_py
+[2.360s] copying tag_hover_controller/apriltag_pnp_broadcaster.py -> /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller
+[2.360s] copying tag_hover_controller/apriltag_tf_broadcaster.py -> /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller
+[2.360s] running install
+[2.373s] running install_lib
+[2.397s] copying /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller/apriltag_pnp_broadcaster.py -> /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller
+[2.397s] copying /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller/apriltag_tf_broadcaster.py -> /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller
+[2.398s] byte-compiling /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller/apriltag_pnp_broadcaster.py to apriltag_pnp_broadcaster.cpython-312.pyc
+[2.400s] byte-compiling /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller/apriltag_tf_broadcaster.py to apriltag_tf_broadcaster.cpython-312.pyc
+[2.402s] running install_data
+[2.402s] running install_egg_info
+[2.428s] removing '/home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller-0.0.0-py3.12.egg-info' (and everything under it)
+[2.428s] Copying ../../build/tag_hover_controller/tag_hover_controller.egg-info to /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller-0.0.0-py3.12.egg-info
+[2.431s] running install_scripts
+[2.662s] Installing apriltag_pnp_broadcaster script to /home/mars/ros2_ws/install/tag_hover_controller/lib/tag_hover_controller
+[2.662s] Installing apriltag_tf_broadcaster script to /home/mars/ros2_ws/install/tag_hover_controller/lib/tag_hover_controller
+[2.662s] Installing hover_yaw_search script to /home/mars/ros2_ws/install/tag_hover_controller/lib/tag_hover_controller
+[2.663s] Installing hover_yaw_search_v1 script to /home/mars/ros2_ws/install/tag_hover_controller/lib/tag_hover_controller
+[2.665s] writing list of installed files to '/home/mars/ros2_ws/build/tag_hover_controller/install.log'
+[2.740s] Invoked command in '/home/mars/ros2_ws/src/tag_hover_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mars/ros2_ws/build/tag_hover_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tag_hover_controller build --build-base /home/mars/ros2_ws/build/tag_hover_controller/build install --record /home/mars/ros2_ws/build/tag_hover_controller/install.log --single-version-externally-managed install_data

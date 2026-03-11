@@ -1,0 +1,28 @@
+running egg_info
+writing ../../build/tag_hover_controller/tag_hover_controller.egg-info/PKG-INFO
+writing dependency_links to ../../build/tag_hover_controller/tag_hover_controller.egg-info/dependency_links.txt
+writing entry points to ../../build/tag_hover_controller/tag_hover_controller.egg-info/entry_points.txt
+writing requirements to ../../build/tag_hover_controller/tag_hover_controller.egg-info/requires.txt
+writing top-level names to ../../build/tag_hover_controller/tag_hover_controller.egg-info/top_level.txt
+reading manifest file '../../build/tag_hover_controller/tag_hover_controller.egg-info/SOURCES.txt'
+writing manifest file '../../build/tag_hover_controller/tag_hover_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+copying tag_hover_controller/apriltag_pnp_broadcaster.py -> /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller
+copying tag_hover_controller/apriltag_tf_broadcaster.py -> /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller
+running install
+running install_lib
+copying /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller/apriltag_pnp_broadcaster.py -> /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller
+copying /home/mars/ros2_ws/build/tag_hover_controller/build/lib/tag_hover_controller/apriltag_tf_broadcaster.py -> /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller
+byte-compiling /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller/apriltag_pnp_broadcaster.py to apriltag_pnp_broadcaster.cpython-312.pyc
+byte-compiling /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller/apriltag_tf_broadcaster.py to apriltag_tf_broadcaster.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/tag_hover_controller/tag_hover_controller.egg-info to /home/mars/ros2_ws/install/tag_hover_controller/lib/python3.12/site-packages/tag_hover_controller-0.0.0-py3.12.egg-info
+running install_scripts
+Installing apriltag_pnp_broadcaster script to /home/mars/ros2_ws/install/tag_hover_controller/lib/tag_hover_controller
+Installing apriltag_tf_broadcaster script to /home/mars/ros2_ws/install/tag_hover_controller/lib/tag_hover_controller
+Installing hover_yaw_search script to /home/mars/ros2_ws/install/tag_hover_controller/lib/tag_hover_controller
+Installing hover_yaw_search_v1 script to /home/mars/ros2_ws/install/tag_hover_controller/lib/tag_hover_controller
+writing list of installed files to '/home/mars/ros2_ws/build/tag_hover_controller/install.log'
