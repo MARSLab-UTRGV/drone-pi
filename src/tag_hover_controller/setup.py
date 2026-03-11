@@ -27,8 +27,8 @@ setup(
         'console_scripts': [
         	'hover_yaw_search = tag_hover_controller.hover_yaw_search:main',
         	'hover_yaw_search_v1 = tag_hover_controller.hover_yaw_search_v1:main',
-			'apriltag_pnp_broadcaster = tag_hover_controller.apriltag_pnp_broadcaster:main',
-			'apriltag_tf_broadcaster = tag_hover_controller.apriltag_tf_broadcaster:main', 
+		'apriltag_pnp_broadcaster = tag_hover_controller.apriltag_pnp_broadcaster:main',
+		'apriltag_tf_broadcaster = tag_hover_controller.apriltag_tf_broadcaster:main', 
 	],
     },
 )
